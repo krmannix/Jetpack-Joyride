@@ -1,0 +1,10 @@
+Command line:
+   tes_box_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58491
+
+Sat Apr 13 17:44:59 2013
+
+
+ Elaboration Time: 0.124801 sec

@@ -1,0 +1,8 @@
+Release 13.3 Drc O.76xd (nt64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+
+Fri Apr 26 12:08:30 2013
+
+drc -z Boxes.ncd Boxes.pcf
+
+DRC detected 0 errors and 0 warnings.

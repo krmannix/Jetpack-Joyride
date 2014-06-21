@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/vga_display.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/vga_display.syr" 

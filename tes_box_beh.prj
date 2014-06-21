@@ -1,0 +1,6 @@
+verilog work "vga_controller_640_60.v"
+verilog work "LFSR.v"
+verilog work "clk_1khz.v"
+verilog work "Box.v"
+verilog work "tes_box.v"
+verilog work "C:/Xilinx/13.3/ISE_DS/ISE//verilog/src/glbl.v"

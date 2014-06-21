@@ -1,0 +1,38 @@
+ISim log file
+Running: X:\EC 311\PROJECTMultipleBoxes1\tes_box_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb X:/EC 311/PROJECTMultipleBoxes1/tes_box_isim_beh.wdb 
+ISim O.76xd (signature 0xc3576ebc)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# restart
+# restart
+# run 10000us
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# restart
+# restart
+# restart
+# restart
+# run 1s
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 5440801 ns : File "//ad/eng/users/k/m/kmannix/EC 311/PROJECTMultipleBoxes1/LFSR.v" Line 34
+ISim O.76xd (signature 0xc3576ebc)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 1s
+Stopped at time : 69891229 ns : File "//ad/eng/users/k/m/kmannix/EC 311/PROJECTMultipleBoxes1/tes_box.v" Line 63
+# restart
+# restart
+# run 1s
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 42628905 ns : File "//ad/eng/users/k/m/kmannix/EC 311/PROJECTMultipleBoxes1/Box.v" Line 55

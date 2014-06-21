@@ -1,0 +1,25 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "X:/EC 311/PROJECTMultipleBoxes1/tes_box_isim_beh.exe" -prj "X:/EC 311/PROJECTMultipleBoxes1/tes_box_beh.prj" "work.tes_box" "work.glbl" 
+ISim O.76xd (signature 0xc3576ebc)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Analyzing Verilog file "X:/EC 311/PROJECTMultipleBoxes1/vga_controller_640_60.v" into library work
+Analyzing Verilog file "X:/EC 311/PROJECTMultipleBoxes1/LFSR.v" into library work
+Analyzing Verilog file "X:/EC 311/PROJECTMultipleBoxes1/clk_1khz.v" into library work
+Analyzing Verilog file "X:/EC 311/PROJECTMultipleBoxes1/Box.v" into library work
+Analyzing Verilog file "X:/EC 311/PROJECTMultipleBoxes1/tes_box.v" into library work
+Analyzing Verilog file "C:/Xilinx/13.3/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module vga_controller_640_60
+Compiling module clk_1khz
+Compiling module LFSR
+Compiling module Boxes
+Compiling module tes_box
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 3 sub-compilation(s) to finish...
+Compiled 6 Verilog Units
+Built simulation executable X:/EC 311/PROJECTMultipleBoxes1/tes_box_isim_beh.exe
+Fuse Memory Usage: 31760 KB
+Fuse CPU Usage: 810 ms

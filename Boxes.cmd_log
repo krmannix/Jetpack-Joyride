@@ -1,0 +1,882 @@
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
+xst -intstyle ise -ifn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.xst" -ofn "X:/EC 311/PROJECTMultipleBoxes1/Boxes.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/EC 311/vga_display.ucf" -p xc6slx16-csg324-3 "Boxes.ngc" Boxes.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Boxes_map.ncd Boxes.ngd Boxes.pcf 
+par -w -intstyle ise -ol high -mt off Boxes_map.ncd Boxes.ncd Boxes.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Boxes.twx Boxes.ncd -o Boxes.twr Boxes.pcf 
+bitgen -intstyle ise -f Boxes.ut Boxes.ncd 
